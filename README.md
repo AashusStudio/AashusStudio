@@ -47,3 +47,8 @@ I’m Aashish from Pune, India — a student passionate about technology and bui
 ###
 
 <h2 align="left">📊 Stats</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AashusStudio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
