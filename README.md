@@ -1,27 +1,25 @@
-<h1 align="center">Hey there, I'm Ashish! 👋</h1>
+# ⚡ Aashish Choudhary | Future AI Engineer
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashish%20Choudhary&fontSize=80" alt="header" />
-</div>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3ZueXp6bm9iZzJicmptZzRxeGZ3bmR6bmZ3bmR6bmZ3bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</p>
 
-### 🔭 About Me
-I’m a 17-year-old student from Pune, India, dedicated to mastering the art of software development. I enjoy bridging the gap between logic and creativity.
+### 💻 The Digital Workspace
+> "Turning caffeine into code since I started my first Python Economic Simulator."
 
-- 🐍 **Currently:** Deep diving into Python and Data Structures (DSA).
-- 🤖 **Exploring:** Machine Learning frameworks and AI automation.
-- 🎯 **Objective:** Crafting efficient, scalable code while building my way into the AI/ML world.
-- ⚡ **Fun Fact:** I manage Minecraft servers and love troubleshooting complex network jitters!
+* **Learning Path:** Mastered Python OOP; currently conquering DSA.
+* **Projects:** Check out my **AashusCrazy** YouTube channel for tech updates.
+* **Location:** Based in Pune, MH.
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,vscode,git,postgres,github,discord" />
-</div>
+### 🧰 Tools of the Trade
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Tools** | VS Code, Git, GitHub |
+| **Libraries** | NumPy, Pandas |
+| **Other** | Linux, Minecraft Server Management |
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashusStudio&show_icons=true&theme=radical" alt="Ashish's Stats" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=blueviolet" alt="Views" />
-</div>
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AashusStudio&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
