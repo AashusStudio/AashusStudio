@@ -1,13 +1,12 @@
-# Ashish Choudhary
-**Python Developer | Cybersecurity Enthusiast**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashish%20Choudhary&fontSize=70&desc=Cyber%20Security%20Enthusiast&descAlignY=75" alt="header" />
+</div>
 
----
+### 🛡️ Professional Profile
+I am a 17-year-old developer based in Pune, India, focusing on the intersection of software development and digital security. I specialize in building automated tools and managing systems.
 
-### 🛡️ About Me
-I am a 17-year-old developer based in Pune, India, currently focused on the intersection of software development and digital security. I build tools with Python and manage systems via Linux.
-
-* 🐍 **Focus:** Mastering Python for security automation and exploring Data Structures (DSA).
-* 🐧 **System:** Proficient in Linux environment management and shell scripting.
+* 🐍 **Python:** Mastering core development for security automation and Data Structures (DSA).
+* 🐧 **Linux:** Proficient in environment management and system-level configurations.
 * 🎯 **Goal:** Building secure-by-design applications and pursuing a career in Cybersecurity.
 
 ### 🛠️ Core Stack
@@ -15,10 +14,7 @@ I am a 17-year-old developer based in Pune, India, currently focused on the inte
   <img src="https://skillicons.dev/icons?i=python,linux" alt="Core Skills" />
 </p>
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashusStudio&show_icons=true&theme=transparent&hide_border=true&title_color=3384FF&icon_color=3384FF&text_color=777" alt="Ashish's Stats" />
-</div>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=444444&style=flat-square&label=ACCESS_LOGS" alt="Views" />
