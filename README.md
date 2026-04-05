@@ -1,27 +1,28 @@
-<h1 align="center">Hey there, I'm Ashish! 👋</h1>
+<h1 align="center">Ashish Choudhary</h1>
+<p align="center"><b>Security Researcher & Python Developer</b></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashish%20Choudhary&fontSize=70&desc=Cyber%20Security%20Enthusiast&descAlignY=75" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Security%20%26%20Development&fontSize=40&fontColor=FFFFFF" alt="header" />
 </div>
 
-### 🛡️ About Me
-I’m a 17-year-old student from Pune, India, passionate about digital forensics and securing the web. I spend my time understanding how systems break so I can learn how to build them stronger.
+### 🔭 Professional Profile
+I am a 17-year-old developer based in Pune, India, focused on the intersection of software efficiency and digital security. I specialize in building automated tools with Python and analyzing system vulnerabilities.
 
-- 🐍 **Currently:** Strengthening my Python foundation for security automation and DSA.
-- 🔐 **Exploring:** Network security, ethical hacking basics, and CTF challenges.
-- 🎯 **Objective:** Building a career in Cyber Security and protecting digital infrastructures.
-- ⚡ **Fun Fact:** My experience managing Minecraft servers actually taught me my first lessons in DDoS protection and permission nodes!
+* 🛡️ **Focus:** Network Security, Security Automation, and Penetration Testing.
+* 📚 **Academics:** Currently mastering Data Structures & Algorithms (DSA) and Python-based security frameworks.
+* ⚙️ **Infrastructure:** Experienced in managing remote Linux servers, configuring firewalls, and optimizing network latency.
+* 🎯 **Goal:** To contribute to the cybersecurity landscape through robust, secure-by-design code.
 
-### 🛠️ Security & Tech Stack
+### 🛠️ Technical Toolkit
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,kali,vscode,postgres,git,github,discord" />
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,postgres,git,github,vscode" />
 </div>
 
-### 📈 GitHub Stats
+### 📊 System Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashusStudio&show_icons=true&theme=radical" alt="Ashish's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AashusStudio&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Ashish's Stats" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=00ff00&label=SECURE_ACCESS_VISITS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=444444&style=flat-square&label=IP_LOGS" alt="Views" />
 </div>
