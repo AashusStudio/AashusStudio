@@ -13,7 +13,7 @@
 ###
 
 <h4 align="left">
-I’m Aashish from Pune, India — a student passionate about technology and building things with code. 🚀<br><br>
+I’m Aashish from India — a student passionate about technology and building things with code. 🚀<br><br>
 🔭 <b>Currently:</b> Leveling up my logic and exploring how modern tech works.<br>
 📚 <b>Learning:</b> Python, Data Structures (DSA), and experimenting with new AI tools.<br>
 🛠️ <b>Goal:</b> To build cool projects and stay curious about the latest in the tech world.<br>
