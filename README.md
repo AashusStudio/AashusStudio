@@ -1,54 +1,27 @@
-<h1 align="center">Hi there, I'm Ashish Choudhary 👋</h1>
-
-###
+<h1 align="center">Hey there, I'm Ashish! 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmZ3ZueXp6bm9iZzJicmptZzRxeGZ3bmR6bmZ3bmR6bmZ3bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashish%20Choudhary&fontSize=80" alt="header" />
 </div>
 
-###
+### 🔭 About Me
+I’m a 17-year-old student from Pune, India, dedicated to mastering the art of software development. I enjoy bridging the gap between logic and creativity.
 
-<h1 align="left">💻 About Me</h1>
+- 🐍 **Currently:** Deep diving into Python and Data Structures (DSA).
+- 🤖 **Exploring:** Machine Learning frameworks and AI automation.
+- 🎯 **Objective:** Crafting efficient, scalable code while building my way into the AI/ML world.
+- ⚡ **Fun Fact:** I manage Minecraft servers and love troubleshooting complex network jitters!
 
-###
-
-<h4 align="left">
-I’m Aashish from India — a student passionate about technology and building things with code. 🚀<br><br>
-🔭 <b>Currently:</b> Leveling up my logic and exploring how modern tech works.<br>
-📚 <b>Learning:</b> Python, Data Structures (DSA), and experimenting with new AI tools.<br>
-🛠️ <b>Goal:</b> To build cool projects and stay curious about the latest in the tech world.<br>
-⚡ <b>Fun Fact:</b> I love taking small ideas and turning them into working code.
-</h4>
-
-###
-
-<h2 align="left">🛠 Tools & Tech</h2>
-
-###
-
+### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=py,vscode,git,postgres,github,discord" />
 </div>
 
-###
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AashusStudio&show_icons=true&theme=radical" alt="Ashish's Stats" />
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AashusStudio.AashusStudio&"  />
+  <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=blueviolet" alt="Views" />
 </div>
-
-###
-
-<h2 align="left">📊 Stats</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AashusStudio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
