@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aashish%20Choudhary&fontSize=70&desc=Cyber%20Security%20Enthusiast&descAlignY=75" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Aashish%20Choudhary&fontSize=70" alt="header" />
 </div>
 
 ### 👤 Profile
