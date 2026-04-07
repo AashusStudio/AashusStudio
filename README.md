@@ -3,22 +3,7 @@
 </div>
 
 ### 👤 Profile
-I am a 17-year-old developer based in Pune, India, focusing on the intersection of software development and digital security. I specialize in building automated tools and managing systems.
-
-* 🐍 **Python:** Mastering core development for security automation and Data Structures (DSA).
-* 🐧 **Linux:** Proficient in environment management and system-level configurations.
-* 🎯 **Goal:** Building secure-by-design applications and pursuing a career in Cybersecurity.
-
-### 🛠️ Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux" alt="Core Skills" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashusStudio&color=444444&style=flat-square&label=ACCESS_LOGS" alt="Views" />
-</div>
+I am a student based in India. just started using git-hub
 
 ### 📊 Stats
 
