@@ -3,7 +3,6 @@
 </div>
 
 ### 👤 Profile
-### 👤 Profile
 Student | Learning and building on GitHub
 
 ### 📊 Stats
