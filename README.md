@@ -3,8 +3,8 @@
 </div>
 
 ### 👤 Profile
-A student from India with a growing interest in technology and development.  
-Currently exploring GitHub and building consistency through practice and projects.
+### 👤 Profile
+Student | Learning and building on GitHub
 
 ### 📊 Stats
 <div align="center">
