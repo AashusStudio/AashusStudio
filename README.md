@@ -3,12 +3,10 @@
 </div>
 
 ### 👤 Profile
-I am a student based in India. just started using git-hub
+A student from India with a growing interest in technology and development.  
+Currently exploring GitHub and building consistency through practice and projects.
 
 ### 📊 Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AashusStudio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AashusStudio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
