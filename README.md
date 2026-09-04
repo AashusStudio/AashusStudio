@@ -3,4 +3,4 @@
 </div>
 
 # 👤 Profile
-### Student | Learning and building on GitHub
+### Student | Learning and building
